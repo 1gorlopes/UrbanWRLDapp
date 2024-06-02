@@ -10,22 +10,22 @@ const produto = {
     detalhes: {
         nome: "Kit WRLD - Exclusive",
         detalhes: "Nosso Kit exclusivo para fãs de Juice WRLD e Moda Urbana",
-        preco: "R$139,99",
+        preco: "R$699,99",
         botao: "Adicionar a lista de desejos",
     },
     itens: {
         titulo: "Itens do Kit",
         lista: [
             {
-                nome: "1x T-Shirt Urban Preta",
+                nome: "1x T-Shirt Urban",
                 imagemKit: camisapreta,
             },
             {
-                nome: "1x Boné Urban Preto",
+                nome: "1x Boné Urban",
                 imagemKit: bonepreto,
             },
             {
-                nome: "1x Disco Fighting Demons",
+                nome: "1x Disco Vinil",
                 imagemKit: disco,
             },
         ]

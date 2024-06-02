@@ -26,9 +26,11 @@ export default function Index({ topo, detalhes, itens }) {
 const styles = StyleSheet.create({
     titulo: {
         fontSize: 26,
-        color: "black",
+        color: "gray",
         fontWeight: "bold",
-        marginLeft: 10,
+        marginLeft: 5,
+        backgroundColor: 'black'
+                                                                                                              
     }
     
         

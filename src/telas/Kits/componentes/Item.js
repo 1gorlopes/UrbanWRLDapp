@@ -14,15 +14,16 @@ const styles = StyleSheet.create({
     item: {
         flexDirection: 'row',
         borderBottomWidth: 1,
-        borderBottomColor: "#ececec",
+        borderBottomColor: "gray",
         paddingVertical: 16,
-        alignItems: "center"
+        alignItems: "center",
+        backgroundColor: "black",
     },
     nome: {
         fontSize: 20,
         lineHeight: 26,
         marginLeft: 11,
-        color: "#464646"
+        color: "gray"
 
     },
     imagemKit: {

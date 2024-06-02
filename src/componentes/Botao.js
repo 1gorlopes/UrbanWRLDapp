@@ -12,7 +12,7 @@ export default function Botao({ textoBotao, acaoBotao }) {
 const styles = StyleSheet.create({
     botao: {
         marginTop: 12,
-        backgroundColor: "black",
+        backgroundColor: "gray",
         paddingVertical: 16,
         borderRadius: 6,
         width: 320,
@@ -20,8 +20,8 @@ const styles = StyleSheet.create({
     },
     botaoTexto: {
         textAlign: "center",
-        color: "gray",
-        fontSize: 18,
+        color: "white",
+        fontSize: 22,
         lineHeight: 26,
         fontWeight: "bold",
     }
